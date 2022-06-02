@@ -33,5 +33,5 @@ $30 UberEats voucher will be sent to registered participants.
 * If you wish not to use the voucher due to compliance reasons, please let us know by 10am or ignore the email.
 
 ### Meeting rooms
-The main meeting room is https://chime.aws/5571436715 or meeting id 5571 43 6715
-The breakout meeting room is https://chime.aws/8009640891 or 8009 64 0891
+* The main meeting room is https://chime.aws/5571436715 or meeting id 5571 43 6715
+* The breakout meeting room is https://chime.aws/8009640891 or 8009 64 0891
