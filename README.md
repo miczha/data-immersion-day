@@ -22,3 +22,12 @@ The agenda is as below; time is in AEST and is subject to change depending on th
     * [Athena Federated query](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/800/820-athena-federated-query)
 
 The participants are free to explore other areas however the support staff will prioritise queries from predefined labs.
+
+
+### Housekeeping
+  * Use AWS account provided by event host (not your company/personal account)
+  * Please do not use company/personal datasets
+  * Light breakfast, lunch and snacks will be provided
+  * Top 3 winners of Quiz will receive prizes!
+  * Paul will organise the SWAG.
+
