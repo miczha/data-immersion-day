@@ -14,7 +14,7 @@ The agenda is as below; time is in AEST and is subject to change depending on th
     * [Workshop at an AWS Event](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/100-introduction/30-region-selection)
 1. **Data Ingestion**: 
     * [DMS Migration Lab](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/400/401/430-main-lab) 
-    * [CDC part](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/400/401/430-main-lab#create-the-cdc-endpoint-to-replicate-ongoing-changes-(optional))
+    * **Optional** CDC part](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/400/401/430-main-lab#create-the-cdc-endpoint-to-replicate-ongoing-changes-(optional))
 2. **Transformation**: 
     * [Data Validation and ETL](https://catalog.us-east-1.prod.workshops.aws/workshops/976050cc-0606-4b23-b49f-ca7b8ac4b153/en-US/600/610-glue-data-validation-etl)
 3. **Query and Visualise**: 
