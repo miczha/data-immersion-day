@@ -27,7 +27,7 @@ The participants are free to explore other areas however the support staff will 
 ### Housekeeping
   * Use AWS account provided by event host (not your company/personal account)
   * Please do not use company/personal datasets
-  * Light breakfast, lunch and snacks will be provided
+  * Lunch voucher will be provided
   * Top 3 winners of Quiz will receive prizes!
   * Breakout room - https://chime.aws/7360292436
 
