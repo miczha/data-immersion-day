@@ -29,5 +29,5 @@ The participants are free to explore other areas however the support staff will 
   * Please do not use company/personal datasets
   * Light breakfast, lunch and snacks will be provided
   * Top 3 winners of Quiz will receive prizes!
-  * Michael will organise the SWAG.
+  * Breakout room - https://chime.aws/7360292436
 
